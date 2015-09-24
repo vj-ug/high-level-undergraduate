@@ -1,4 +1,4 @@
--- RedSideJoin rating movie output
+-- ReduceJoin rating movie output
 - Rating is the DFS location of ratings.dat file
 - Movies is the DFS location of movies.dat file 
 - Output are dfs locations for output file.
